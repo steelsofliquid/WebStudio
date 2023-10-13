@@ -1,0 +1,18 @@
+HTML Studio 2019 Series
+
+These programs were developed in July 2019 and do almost the same thing. Developed for a summer class demonstration.
+These programs all are mostly the same, except a minor cosmetic difference and their ability to save HTML files. The
+main formats these programs can save:
+- HTM
+- HTML
+- HTML-E (a special format for the Enterprise skew)
+
+The program came in four skews. All of them are free, so I recommend using the Enterprise skew ('cuz when will you ever get enterprise-level programs again?)
+
+-- System Requirements --
+OS: Windows 7 or later (Vista MIGHT work, if it's x64.)
+CPU: 64-bit processor
+RAM: 256 megabytes
+HDD: 20 gigabytes (2 megabytes for install)
+
+This was a late program of my early era of programs.
