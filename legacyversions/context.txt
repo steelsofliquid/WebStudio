@@ -1,0 +1,8 @@
+These are old versions of WebStudio (HTML Studio 2019/2023) developed prior to the creation of the repository.
+That includes:
+
+- HTML Studio 2019 (all four skews)
+- HTML Studio 2023
+- CSS Studio 2023
+
+System Requirements are included in the files "info.txt" in the sub-directories. They ARE NOT THE SAME REQUIREMENTS!!
