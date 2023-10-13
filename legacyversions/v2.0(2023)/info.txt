@@ -1,0 +1,12 @@
+HTML and CSS Studio 2023
+
+Created in January 2023 during a broadcasting class.
+
+-- System Requirements --
+OS: Windows 2000 Professional or later (*98 will run the program but it won't work right)
+CPU: 32-bit Intel Pentium II or better
+RAM: 64 megabytes
+HDD: 6 gigabytes (5 MB for installation)
+Extra: A ZIP extractor.
+
+*Alternatively, you CAN install just one.
