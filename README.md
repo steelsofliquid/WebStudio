@@ -8,3 +8,7 @@ Repository not only contains the latest versions, but also:
 - _HTML Studio 2019 (SteelsOfLiquid under the TeraHFSS badging)_
 - _HTML Studio 2023 and CSS Studio 2023_
 - _Sample HTML and CSS content made in these programs_
+
+# Tying up the loose ends of abandoned repos...
+
+WebStudio is currently a dormant project, and will likely stay that way for the provisional future.
